@@ -12,6 +12,13 @@
         "url": "/general/2018/08/22/hello-world/"
       },
     
+      {
+        "title": "Test Post",
+        "excerpt": "\n",
+        "content": "\n",
+        "url": "/2020/02/18/test-post/"
+      },
+    
   
   
   
@@ -34,6 +41,13 @@
     "excerpt": "\n",
     "content": "\n",
     "url": "/blog/"
+  },
+  
+  {
+    "title": "Test Page",
+    "excerpt": "\n",
+    "content": "Hopefully it works\n",
+    "url": "/pages/test-page/"
   }
   
 ]
