@@ -7,8 +7,8 @@
     
       {
         "title": "Hello World",
-        "excerpt": "This is my very first blog post. I haven’t written anything yet but I’m sure I have some great stories to tell.\n",
-        "content": "This is my very first blog post. I haven’t written anything yet but I’m sure I have some great stories to tell.\n",
+        "excerpt": "I don’t know what we should put in here. Does she really need blog posts?\n",
+        "content": "I don’t know what we should put in here. Does she really need blog posts?\n",
         "url": "/general/2018/08/22/hello-world/"
       },
     
@@ -34,13 +34,6 @@
     "excerpt": "\n",
     "content": "\n",
     "url": "/blog/"
-  },
-  
-  {
-    "title": "Learning Resource Network at Arcadia University",
-    "excerpt": "\n",
-    "content": "(INSERT LRN MISSION STATEMENT HERE))\n",
-    "url": "/"
   }
   
 ]
