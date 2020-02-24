@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Us
 section: '{{name}}'
 intro_paragraph: >-
   # Mission Statement:  
