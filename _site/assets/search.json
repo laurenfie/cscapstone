@@ -5,6 +5,9 @@
   
     
     
+  
+    
+    
       {
         "title": "Hello World",
         "excerpt": "I don’t know what we should put in here. Does she really need blog posts?\n",
@@ -12,15 +15,22 @@
         "url": "/general/2018/08/22/hello-world/"
       },
     
-      {
-        "title": "Test Post",
-        "excerpt": "\n",
-        "content": "\n",
-        "url": "/2020/02/18/test-post/"
-      },
-    
   
   
+  
+  {
+    "title": "About Us",
+    "excerpt": "\n",
+    "content": "\n",
+    "url": "/pages/about-us/"
+  },
+  
+  {
+    "title": "About the LRN",
+    "excerpt": "\n",
+    "content": "(TALK ABOUT LRN HERE))\n",
+    "url": "/pages/about/"
+  },
   
   {
     "title": "Categories",
@@ -30,10 +40,24 @@
   },
   
   {
+    "title": "someone kill me pls",
+    "excerpt": "\n",
+    "content": "\n",
+    "url": "/pages/"
+  },
+  
+  {
     "title": "Blog",
     "excerpt": "\n",
     "content": "\n",
     "url": "/blog/"
+  },
+  
+  {
+    "title": "Test Page",
+    "excerpt": "\n",
+    "content": "Hopefully it works\n",
+    "url": "/pages/test-page/"
   }
   
 ]

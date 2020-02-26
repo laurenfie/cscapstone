@@ -23,10 +23,9 @@ plugins:
 # Site settings
 url: 'https://mydomain.com'
 baseurl: ''
-title: 'My website'
+title: 'Arcadia University LRN'
 description: 'This is my new website'
 permalink: pretty
-#logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
 
 # Pagination
 paginate: 5
@@ -55,3 +54,12 @@ collections:
     feature_text: |
       Welcome to my blog
     feature_image: "https://picsum.photos/2560/600?image=866"
+
+#  pages:
+#    title: Pages
+#    output: true
+#    description: "Is this a page of pages?"
+#    feature_text: |
+#      I don't know what I'm doing
+#    feature_image: "https://images.unsplash.com/photo-1514477917009-389c76a86b68?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb"
+
