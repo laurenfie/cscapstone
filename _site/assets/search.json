@@ -23,13 +23,6 @@
   
   
   {
-    "title": "About the LRN",
-    "excerpt": "\n",
-    "content": "(TALK ABOUT LRN HERE))\n",
-    "url": "/about/"
-  },
-  
-  {
     "title": "Categories",
     "excerpt": "Category index\n",
     "content": "\n",
@@ -41,13 +34,6 @@
     "excerpt": "\n",
     "content": "\n",
     "url": "/blog/"
-  },
-  
-  {
-    "title": "Test Page",
-    "excerpt": "\n",
-    "content": "Hopefully it works\n",
-    "url": "/pages/test-page/"
   }
   
 ]
