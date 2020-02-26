@@ -1,0 +1,19 @@
+- name: Home
+  url: /
+  img:
+  abst: 
+
+- name: About
+  url: /about
+  img:
+  abst: Information about the LRN
+  
+- name: Contact
+  url: /contact
+  img:
+  abst: 
+
+- name: Blog
+  url: /blog
+  img:
+  abst: The LRN's blog
