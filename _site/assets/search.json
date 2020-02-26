@@ -12,21 +12,14 @@
         "url": "/general/2018/08/22/hello-world/"
       },
     
-      {
-        "title": "Test Post",
-        "excerpt": "\n",
-        "content": "\n",
-        "url": "/2020/02/18/test-post/"
-      },
-    
   
   
   
   {
-    "title": "About the LRN",
+    "title": "About Us",
     "excerpt": "\n",
-    "content": "(TALK ABOUT LRN HERE))\n",
-    "url": "/about/"
+    "content": "The Learning Resource Network is committed to fostering academic success for all students enrolled at Arcadia University. Our services are based upon the principle of collaborative learning among peers. The LRN aims to support students through a flexible approach, providing content specific tutoring and resources for academic strategies and skill-building. Peer tutors promote active learning through modeling of questioning techniques, problem-solving strategies, and critical thinking. Our overarching goal is to encourage students to be independent learners who will be able to communicate effectively, engage with different perspectives, apply disciplinary knowledge in multiple contexts, and engage with and respond to a changing world.\n",
+    "url": "/about-us/"
   },
   
   {
@@ -34,6 +27,13 @@
     "excerpt": "Category index\n",
     "content": "\n",
     "url": "/categories/"
+  },
+  
+  {
+    "title": "someone kill me pls",
+    "excerpt": "\n",
+    "content": "\n",
+    "url": "/pages/"
   },
   
   {
