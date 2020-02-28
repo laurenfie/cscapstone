@@ -1,0 +1,5 @@
+items:
+  - display_name: Hope
+    url: /hope
+    img: /images/uploads/dune.jpg
+    abst: 'Test: created from CMS.'
