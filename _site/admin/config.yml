@@ -49,3 +49,21 @@ collections:
       - {label: "Intro Paragraph", name: "intro_paragraph", widget: "markdown", required: false}
       - {label: "Body", name: "body", widget: "markdown", required: false}
       - {label: "Categories", name: "categories", widget: "string", required: false}
+
+    #Tiles
+  - label: "Tile Settings"
+    name: "tile"
+    files:
+      - label: "Tile Settings"
+        name: "tile"
+        file: "_data/tile.yml"
+        fields:
+          - label: "Tile Items"
+            name: "items"
+            widget: list
+            fields:
+              - {label: Name, name: display_name, widget: string}
+              - {label: Link, name: url, widget: string}
+              - {label: Image, name: img, widget: image}
+              - {label: Link, name: url, widget: string}
+              - {label: Description, name: abst, widget: string}
