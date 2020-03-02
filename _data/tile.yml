@@ -1,5 +1,21 @@
+
+# - name: Home
+#   url: /
+#   img:
+#   abst: 
 items:
-  - display_name: Hope
-    url: /hope
-    img: /images/uploads/dune.jpg
-    abst: 'Test: created from CMS.'
+  - display_name: About
+    url: /about
+    img:
+    abst: Information about the LRN.
+    
+  - display_name: Contact
+    url: /contact
+    img:
+    abst: Information about setting up an appointment.
+
+  - display_name: Blog
+    url: /blog
+    img:
+    abst: The LRN's blog.
+

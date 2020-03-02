@@ -1,10 +1,9 @@
 backend:
   name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
-publish_mode: editorial_workflow
-media_folder: "images/uploads" 
+media_folder: "assets/images" 
 #media_folder: "static/images/uploads"
-public_folder: "/images/uploads"
+public_folder: "assets/images"
 collections:
   #Blog posts:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
@@ -49,3 +48,20 @@ collections:
       - {label: "Intro Paragraph", name: "intro_paragraph", widget: "markdown", required: false}
       - {label: "Body", name: "body", widget: "markdown", required: false}
       - {label: "Categories", name: "categories", widget: "string", required: false}
+
+    #Tiles
+  - label: "Tile Settings"
+    name: "tile"
+    files:
+      - label: "Tile Settings"
+        name: "tile"
+        file: "_data/tile.yml"
+        fields:
+          - label: "Tile Items"
+            name: "items"
+            widget: list
+            fields:
+              - {label: Name, name: display_name, widget: string}
+              - {label: Link, name: url, widget: string}
+              - {label: Image, name: img, widget: image}
+              - {label: Description, name: abst, widget: string}
