@@ -1,8 +1,8 @@
+
 # - name: Home
 #   url: /
 #   img:
 #   abst: 
-
 items:
   - display_name: About
     url: /about
@@ -18,3 +18,4 @@ items:
     url: /blog
     img:
     abst: The LRN's blog.
+
