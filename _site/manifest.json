@@ -1,9 +1,0 @@
-{
-  "lang": "en-US",
-  "name": "Arcadia University LRN",
-  "short_name": "ArcadiaUniversityLRN",
-  "theme_color": "#24292e",
-  "background_color": "#ffffff",
-  "start_url": "/",
-  "display": "standalone"
-}
