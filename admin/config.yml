@@ -59,9 +59,9 @@ collections:
         fields:
           - label: "Tile Items"
             name: "items"
-            widget: list
+            widget: "list"
             fields:
-              - {label: Name, name: display_name, widget: string}
-              - {label: Link, name: url, widget: string}
-              - {label: Image, name: img, widget: image}
-              - {label: Description, name: abst, widget: string}
+              - {label: "Name", name: "display_name", widget: "string"}
+              - {label: "Link", name: "url", widget: "string"}
+              - {label: "Image", name: "img", widget: "image"}
+              - {label: "Description", name: "abst", widget: "string"}
