@@ -1,21 +1,13 @@
-
-# - name: Home
-#   url: /
-#   img:
-#   abst: 
 items:
   - display_name: About
     url: /about
-    img:
+    img: assets/images/sky1.jpg
     abst: Information about the LRN.
-    
   - display_name: Contact
     url: /contact
-    img:
+    img: assets/images/sky2.jpg
     abst: Information about setting up an appointment.
-
   - display_name: Blog
     url: /blog
-    img:
+    img: assets/images/sky3.jpg
     abst: The LRN's blog.
-
