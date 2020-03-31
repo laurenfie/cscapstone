@@ -83,7 +83,7 @@ collections:
         fields:
           - label: "Tile Items"
             name: "items"
-            widget: list
+            widget: "list"
             fields:
               - {label: Name, name: display_name, widget: string}
               - {label: Link, name: url, widget: string}
