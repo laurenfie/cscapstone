@@ -33,6 +33,16 @@ collections:
           - label: "Body"
             name: "body"
             widget: "markdown"
+      - label: "Contact Page"
+        name: "contact"
+        file: "contact.md"
+        fields:
+          - label: "Title"
+            name: "title"
+            widget: "string"
+          - label: "Body"
+            name: "body"
+            widget: "markdown"
       
   # - name: "page"
   #   label: "Page"
