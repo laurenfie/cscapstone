@@ -89,3 +89,16 @@ collections:
               - {label: Link, name: url, widget: string}
               - {label: Image, name: img, widget: image}
               - {label: Description, name: abst, widget: string}
+              
+  - label: "Staff" # Used in routes, ie.: /admin/collections/:slug/edit
+    name: "staff" # Used in the UI, ie.: "New Post"
+    folder: "_staff" # The path to the folder where the documents are stored
+    sort: "lastName:asc" # Default is title:asc
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "First Name", name: "firstName", widget: "string"}
+      - {label: "Last Name", name: "lastName", widget: "string"}
+      - {label: "Category",name: "category",widget: "string"} #TODO: Figure out how to make a 2 option list
+      - {label: "Major", name: "major", widget: "string", required: false}
+      - {label: "Bio", name: "body", widget: "markdown", required: false}
+
