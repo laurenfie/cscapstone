@@ -1,4 +1,10 @@
-<hr>
-<footer>
-    <p>© {{site.time | date:'%Y'}} LRN </p>
-</footer>
+<hr/>
+<footer class="footer">
+    <div class="container">
+      <div class="copyright  typeset">
+        <small class="small">&copy; {{ site.title }} {{ site.time | date: '%Y' }}</small>
+      </div>
+  
+      {% include nav.html %}
+    </div>
+  </footer>
