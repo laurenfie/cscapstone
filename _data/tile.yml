@@ -11,3 +11,7 @@ items:
     url: /blog
     img: assets/images/sky3.jpg
     abst: The LRN's blog.
+  - display_name: Information For Tutors
+    url: /fortutors
+    img: assets/images/sky4.jpg
+    abst: Information on becoming a tutor and scheduling appointments as a tutor
