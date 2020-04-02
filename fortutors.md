@@ -18,4 +18,7 @@ Once completed, the application can be sent to tutor@arcadia.edu or dropped off 
 
 # Making Appointments
 
-Tutoring appointments should be made using TutorTrac. Tutors should not make recurring appointments without gaining approval from Linda or Gina. If a tutor would like to make an appointment outside of their typical hours, they must first create availability on the TutorTrac schedule, then enter the appointment. After each appointment, tutors must fill out a Tutor Report with information about that session. 
+Tutoring appointments should be made using TutorTrac. Tutors should not make recurring appointments without gaining approval from Linda or Gina. If a tutor would like to make an appointment outside of their typical hours, they must first create availability on the TutorTrac schedule, then enter the appointment. 
+
+# Tutor Responsibilities
+After each appointment, tutors must fill out a Tutor Report with information about that session. This form can be found in the shared drive, in a document usually titled with the name of the semester and "important links" (ie: SP 20 IMPORTANT LINKS). Before each semester, tutors must fill out and turn in tutor availability forms and a form with any new courses they are able to tutor. Hard copies of these forms are available in the LRN, and virtual copies are on the shared drive and emailed to tutors. 
