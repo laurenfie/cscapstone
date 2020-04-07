@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Information for Tutors
+title: Tutors
 ---
 
 # Becoming a Tutor:
