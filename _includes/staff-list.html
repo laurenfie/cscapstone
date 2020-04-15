@@ -1,7 +1,7 @@
 <ul>
     {% for member in site.staff %}
       <li>
-        <h2>{{ member.fistName }} {{member.lastName}}</h2>
+        <h2>{{ member.firstName }} {{member.lastName}}</h2>
         <h3>{{ member.major }}</h3>
         <p>{{ member.content | markdownify }}</p>
       </li>
