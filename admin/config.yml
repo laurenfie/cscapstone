@@ -63,7 +63,16 @@ collections:
           - label: "Body"
             name: "body"
             widget: "markdown"
- 
+      - label: "Staff"
+        name: "staff"
+        file: "staff.md"
+        fields:
+          - label: "Title"
+            name: "title"
+            widget: "string"
+          - label: "Body"
+            name: "body"
+            widget: "markdown"
     
       
   # - name: "page"
