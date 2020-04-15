@@ -11,3 +11,11 @@ items:
     url: /blog
     img: assets/images/sky3.jpg
     abst: The LRN's blog.
+  - display_name: Contact
+    url: /contact
+    img: 
+    abst: Our Contact Info.
+  - display_name: Staff
+    url: /staff
+    img: 
+    abst: Meet the wonderfull staff and tutors of the LRN.
