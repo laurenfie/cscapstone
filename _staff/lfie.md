@@ -1,5 +1,5 @@
 ---
-firstName: Laure
+firstName: Lauren
 lastName: Fie
 category: tutor
 major: Computer Science and Math
