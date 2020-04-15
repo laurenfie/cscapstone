@@ -71,7 +71,7 @@ collections:
             name: "title"
             widget: "string"
           - label: "Body"
-            name: "body"
+            name: "info"
             widget: "markdown"
     
       
@@ -99,9 +99,8 @@ collections:
     fields: # The fields each document in this collection have
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
-      - {label: "Author",name: "author",widget: "string"}
+      - {label: "Excerpt", name: "excerpt", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD HH:mm:ss"}
-      - {label: "Intro Paragraph", name: "intro_paragraph", widget: "markdown", required: false}
       - {label: "Body", name: "body", widget: "markdown", required: false}
 
     #Tiles
