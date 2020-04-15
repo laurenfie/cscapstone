@@ -19,3 +19,11 @@ items:
     url: /staff
     img: 
     abst: Meet the wonderfull staff and tutors of the LRN.
+  - display_name: Information For Tutors
+    url: /fortutors
+    img: assets/images/sky4.jpg
+    abst: Information on becoming a tutor and scheduling appointments as a tutor
+  - display_name: Resources
+    url: /resources/
+    img: assets/images/sky5.jpg
+    abst: Various learning resources available to students

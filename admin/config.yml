@@ -43,6 +43,28 @@ collections:
           - label: "Body"
             name: "body"
             widget: "markdown"
+      - label: "Information for Tutors"
+        name: "fortutors"
+        file: "fortutors.md"
+        fields:
+          - label: "Title"
+            name: "title"
+            widget: "string"
+          - label: "Body"
+            name: "body"
+            widget: "markdown"
+      - label: "Resources"
+        name: "resources"
+        file: "resources.md"
+        fields:
+          - label: "Title"
+            name: "title"
+            widget: "string"
+          - label: "Body"
+            name: "body"
+            widget: "markdown"
+ 
+    
       
   # - name: "page"
   #   label: "Page"
