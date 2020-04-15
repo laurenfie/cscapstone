@@ -33,6 +33,7 @@ body
 {
     font-size: 14px;
     text-align: justify;
+    color: black;
 
 }
 
@@ -40,16 +41,17 @@ body
 {
     margin-top: 10px;
     font-size: 30px;
-    color: #007bff;
+ 
 }
 
 .tile h2 a{
     text-decoration: none;
+    color:black;
 }
 
 .read-more-btn
 {
-    background-image: linear-gradient(to right, #1c03b5,#5c8bef);
+    background-image:linear-gradient(to right, black,#a0062e);
     padding: 5px 12px 8px;
     border-radius: 20px;
     line-height: 20px;
@@ -60,7 +62,7 @@ body
 
 .read-more-btn:hover
 {
-    background-image: linear-gradient(to right, #006417, #00b138);
+    background-image: linear-gradient(to right, #a0062e, #a0062e);
     text-decoration: none;
     color: #fff;
 
