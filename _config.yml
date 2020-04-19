@@ -21,7 +21,7 @@ plugins:
 - jemoji
 
 # Site settings
-url: 'https://cscapstone.netlify.app'
+url: 'https://arcadialrn.netlify.app'
 baseurl: ''
 title: 'Arcadia University LRN'
 description: 'LRN Website'
